@@ -41,5 +41,7 @@ Mostly contest solution available online use them.
 
 Follow CP Handbook.
 
+contribute to this REPO as you know any new useful material.
+
 ❌ **Do NOT use AI for thinking or problem solving.**  
 AI may be used only for syntax reference or debugging errors.
