@@ -43,5 +43,25 @@ Follow CP Handbook.
 
 contribute to this REPO as you know any new useful material.
 
+----
+### useful chrome extension and website for CP 
+CF Analytics https://chromewebstore.google.com/detail/cf-analytics/hhljbjodjdbjbggddjaidojnlmaobcpo
+
+Carrot  https://chromewebstore.google.com/detail/carrot/gakohpplicjdhhfllilcjpfildodfnnn
+
+Read Blogs on Codeforces https://codeforces.com/blog/entry/53341
+
+https://www.youtube.com/@Errichto
+
+----
+Link for some IMP thinks  https://docs.google.com/document/d/1w9AtXp2driWS-MfxgGJekVZFGkOJutdeTd8Gi-QoX8E/edit?usp=sharing
+C++ full courses https://www.youtube.com/watch?v=-TkoO8Z07hI
+
+**follow better resources.**
+----
+
+
+
 ❌ **Do NOT use AI for thinking or problem solving.**  
+
 AI may be used only for syntax reference or debugging errors.
